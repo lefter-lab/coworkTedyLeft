@@ -18,9 +18,9 @@ Global Politics: I stay informed about international affairs to understand the b
 
 Scientific Developments: I'm keenly interested in the latest research in electronics, computing, AI, and robotics.🔬📈
 Projects
-Here are a few projects that showcase my skills and interests: comming soon
+Here are a few projects that showcase my skills and interests:  
 
-Project Name:  🛠️💻 
+1.AI Chatbot: Java AI Chatbot Using Groq API: This project involves developing an AI chatbot in Java that leverages the Groq API to enhance performance and efficiency. The chatbot is designed to handle natural language processing tasks, providing users with accurate and timely responses. Technologies used include Java for the core application, the Groq API for accelerated AI computations, and integration with various data sources to enrich the chatbot's knowledge base.🛠️💻 
 
 Let's Connect
 I'm always open to discussing new ideas, collaborations, or opportunities.
