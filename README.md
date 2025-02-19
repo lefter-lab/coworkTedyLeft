@@ -1,5 +1,5 @@
 # coworkTedyLeft
-Java solution
+
 Welcome to My GitHub Profile!
 
 Hello! I'm Lefty, a passionate software engineer with a background in communication technology, electronics, and psychology. I thrive on crafting innovative solutions and believe in the power of balanced, mindful programming.
